@@ -219,7 +219,7 @@ h1, h2 ,h3 ,h4 ,h5 ,h6 {
 
 #showcase::before {
   content: '';
-  background: url('https://drive.google.com/uc?export=view&id=1n8CpdsGW3wDcI3HxV-loW_Dg3x4xy0ua') no-repeat center center/cover;
+  background: url('../img/showcase.jpg') no-repeat center center/cover;
   position: absolute;
   top: 0;
   left: 0;
